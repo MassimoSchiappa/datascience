@@ -1,0 +1,7 @@
+CHILD MORTALITY BY CAUSE: http://apps.who.int/gho/data/node.main.ghe1002015-by-cause?lang=en
+ADULT MORTALITY BY WHO REGIONS: http://apps.who.int/gho/data/view.main.1340?lang=en
+GDP WORLD COUNTRIES IMF 2017: http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/download.aspx
+COUNTRIES RELIGIONS https://www.cia.gov/library/publications/the-world-factbook/fields/2122.html AND WIKIPEDIA
+GEO INFO https://developers.google.com/public-data/docs/canonical/countries_csv AND http://download.geonames.org/export/dump/
+
+

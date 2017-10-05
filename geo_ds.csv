@@ -1,0 +1,438 @@
+;ISO;ISO3;Country;Capital;Area(in sq km);Population;Continent;CurrencyCode;CurrencyName;latitude;longitude;TimeZoneId;rawOffset (independant of DST)
+0;AD;AND;Andorra;Andorra la Vella;468.0;84000;EU;EUR;Euro;42,546245;1,601554;Europe/Andorra;1.0
+1;AE;ARE;United Arab Emirates;Abu Dhabi;82880.0;4975593;AS;AED;Dirham;23,424076;53,847818;Asia/Dubai;4.0
+2;AF;AFG;Afghanistan;Kabul;647500.0;29121286;AS;AFN;Afghani;33,93911;67,709953;Asia/Kabul;4.5
+3;AG;ATG;Antigua and Barbuda;St. John's;443.0;86754;;XCD;Dollar;17,060816;-61,796428;America/Antigua;-4.0
+4;AI;AIA;Anguilla;The Valley;102.0;13254;;XCD;Dollar;18,220554;-63,068615;America/Anguilla;-4.0
+5;AL;ALB;Albania;Tirana;28748.0;2986952;EU;ALL;Lek;41,153332;20,168331;Europe/Tirane;1.0
+6;AM;ARM;Armenia;Yerevan;29800.0;2968000;AS;AMD;Dram;40,069099;45,038189;Asia/Yerevan;4.0
+7;AO;AGO;Angola;Luanda;1246700.0;13068161;AF;AOA;Kwanza;-11,202692;17,873887;Africa/Luanda;1.0
+8;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Casey;11.0
+9;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Davis;7.0
+10;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/DumontDUrville;10.0
+11;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Mawson;5.0
+12;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/McMurdo;12.0
+13;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Palmer;-3.0
+14;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Rothera;-3.0
+15;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Syowa;3.0
+16;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Troll;0.0
+17;AQ;ATA;Antarctica;;14000000.0;0;AN;;;-75,250973;-0,071389;Antarctica/Vostok;6.0
+18;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Buenos_Aires;-3.0
+19;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Catamarca;-3.0
+20;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Cordoba;-3.0
+21;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Jujuy;-3.0
+22;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/La_Rioja;-3.0
+23;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Mendoza;-3.0
+24;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Rio_Gallegos;-3.0
+25;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Salta;-3.0
+26;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/San_Juan;-3.0
+27;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/San_Luis;-3.0
+28;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Tucuman;-3.0
+29;AR;ARG;Argentina;Buenos Aires;2766890.0;41343201;SA;ARS;Peso;-38,416097;-63,616672;America/Argentina/Ushuaia;-3.0
+30;AS;ASM;American Samoa;Pago Pago;199.0;57881;OC;USD;Dollar;-14,270972;-170,132217;Pacific/Pago_Pago;-11.0
+31;AT;AUT;Austria;Vienna;83858.0;8205000;EU;EUR;Euro;47,516231;14,550072;Europe/Vienna;1.0
+32;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Antarctica/Macquarie;11.0
+33;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Adelaide;9.5
+34;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Brisbane;10.0
+35;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Broken_Hill;9.5
+36;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Currie;10.0
+37;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Darwin;9.5
+38;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Eucla;8.75
+39;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Hobart;10.0
+40;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Lindeman;10.0
+41;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Lord_Howe;10.5
+42;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Melbourne;10.0
+43;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Perth;8.0
+44;AU;AUS;Australia;Canberra;7686850.0;21515754;OC;AUD;Dollar;-25,274398;133,775136;Australia/Sydney;10.0
+45;AW;ABW;Aruba;Oranjestad;193.0;71566;;AWG;Guilder;12,52111;-69,968338;America/Aruba;-4.0
+46;AX;ALA;Aland Islands;Mariehamn;1580.0;26711;EU;EUR;Euro;;;Europe/Mariehamn;2.0
+47;AZ;AZE;Azerbaijan;Baku;86600.0;8303512;AS;AZN;Manat;40,143105;47,576927;Asia/Baku;4.0
+48;BA;BIH;Bosnia and Herzegovina;Sarajevo;51129.0;4590000;EU;BAM;Marka;43,915886;17,679076;Europe/Sarajevo;1.0
+49;BB;BRB;Barbados;Bridgetown;431.0;285653;;BBD;Dollar;13,193887;-59,543198;America/Barbados;-4.0
+50;BD;BGD;Bangladesh;Dhaka;144000.0;156118464;AS;BDT;Taka;23,684994;90,356331;Asia/Dhaka;6.0
+51;BE;BEL;Belgium;Brussels;30510.0;10403000;EU;EUR;Euro;50,503887;4,469936;Europe/Brussels;1.0
+52;BF;BFA;Burkina Faso;Ouagadougou;274200.0;16241811;AF;XOF;Franc;12,238333;-1,561593;Africa/Ouagadougou;0.0
+53;BG;BGR;Bulgaria;Sofia;110910.0;7148785;EU;BGN;Lev;42,733883;25,48583;Europe/Sofia;2.0
+54;BH;BHR;Bahrain;Manama;665.0;738004;AS;BHD;Dinar;25,930414;50,637772;Asia/Bahrain;3.0
+55;BI;BDI;Burundi;Bujumbura;27830.0;9863117;AF;BIF;Franc;-3,373056;29,918886;Africa/Bujumbura;2.0
+56;BJ;BEN;Benin;Porto-Novo;112620.0;9056010;AF;XOF;Franc;9,30769;2,315834;Africa/Porto-Novo;1.0
+57;BL;BLM;Saint Barthelemy;Gustavia;21.0;8450;;EUR;Euro;;;America/St_Barthelemy;-4.0
+58;BM;BMU;Bermuda;Hamilton;53.0;65365;;BMD;Dollar;32,321384;-64,75737;Atlantic/Bermuda;-4.0
+59;BN;BRN;Brunei;Bandar Seri Begawan;5770.0;395027;AS;BND;Dollar;4,535277;114,727669;Asia/Brunei;8.0
+60;BO;BOL;Bolivia;Sucre;1098580.0;9947418;SA;BOB;Boliviano;-16,290154;-63,588653;America/La_Paz;-4.0
+61;BQ;BES;Bonaire, Saint Eustatius and Saba ;;328.0;18012;;USD;Dollar;;;America/Kralendijk;-4.0
+62;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Araguaina;-3.0
+63;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Bahia;-3.0
+64;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Belem;-3.0
+65;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Boa_Vista;-4.0
+66;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Campo_Grande;-4.0
+67;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Cuiaba;-4.0
+68;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Eirunepe;-5.0
+69;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Fortaleza;-3.0
+70;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Maceio;-3.0
+71;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Manaus;-4.0
+72;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Noronha;-2.0
+73;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Porto_Velho;-4.0
+74;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Recife;-3.0
+75;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Rio_Branco;-5.0
+76;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Santarem;-3.0
+77;BR;BRA;Brazil;Brasilia;8511965.0;201103330;SA;BRL;Real;-14,235004;-51,92528;America/Sao_Paulo;-3.0
+78;BS;BHS;Bahamas;Nassau;13940.0;301790;;BSD;Dollar;25,03428;-77,39628;America/Nassau;-5.0
+79;BT;BTN;Bhutan;Thimphu;47000.0;699847;AS;BTN;Ngultrum;27,514162;90,433601;Asia/Thimphu;6.0
+80;BV;BVT;Bouvet Island;;49.0;0;AN;NOK;Krone;-54,423199;3,413194;;
+81;BW;BWA;Botswana;Gaborone;600370.0;2029307;AF;BWP;Pula;-22,328474;24,684866;Africa/Gaborone;2.0
+82;BY;BLR;Belarus;Minsk;207600.0;9685000;EU;BYR;Ruble;53,709807;27,953389;Europe/Minsk;3.0
+83;BZ;BLZ;Belize;Belmopan;22966.0;314522;;BZD;Dollar;17,189877;-88,49765;America/Belize;-6.0
+84;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Atikokan;-5.0
+85;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Blanc-Sablon;-4.0
+86;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Cambridge_Bay;-7.0
+87;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Creston;-7.0
+88;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Dawson;-8.0
+89;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Dawson_Creek;-7.0
+90;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Edmonton;-7.0
+91;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Fort_Nelson;-7.0
+92;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Glace_Bay;-4.0
+93;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Goose_Bay;-4.0
+94;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Halifax;-4.0
+95;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Inuvik;-7.0
+96;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Iqaluit;-5.0
+97;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Moncton;-4.0
+98;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Nipigon;-5.0
+99;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Pangnirtung;-5.0
+100;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Rainy_River;-6.0
+101;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Rankin_Inlet;-6.0
+102;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Regina;-6.0
+103;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Resolute;-6.0
+104;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/St_Johns;-3.5
+105;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Swift_Current;-6.0
+106;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Thunder_Bay;-5.0
+107;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Toronto;-5.0
+108;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Vancouver;-8.0
+109;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Whitehorse;-8.0
+110;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Winnipeg;-6.0
+111;CA;CAN;Canada;Ottawa;9984670.0;33679000;;CAD;Dollar;56,130366;-106,346771;America/Yellowknife;-7.0
+112;CC;CCK;Cocos Islands;West Island;14.0;628;AS;AUD;Dollar;-12,164165;96,870956;Indian/Cocos;6.5
+113;CD;COD;Democratic Republic of the Congo;Kinshasa;2345410.0;70916439;AF;CDF;Franc;-4,038333;21,758664;Africa/Kinshasa;1.0
+114;CD;COD;Democratic Republic of the Congo;Kinshasa;2345410.0;70916439;AF;CDF;Franc;-4,038333;21,758664;Africa/Lubumbashi;2.0
+115;CF;CAF;Central African Republic;Bangui;622984.0;4844927;AF;XAF;Franc;6,611111;20,939444;Africa/Bangui;1.0
+116;CG;COG;Republic of the Congo;Brazzaville;342000.0;3039126;AF;XAF;Franc;-0,228021;15,827659;Africa/Brazzaville;1.0
+117;CH;CHE;Switzerland;Bern;41290.0;7581000;EU;CHF;Franc;46,818188;8,227512;Europe/Zurich;1.0
+118;CI;CIV;Ivory Coast;Yamoussoukro;322460.0;21058798;AF;XOF;Franc;7,539989;-5,54708;Africa/Abidjan;0.0
+119;CK;COK;Cook Islands;Avarua;240.0;21388;OC;NZD;Dollar;-21,236736;-159,777671;Pacific/Rarotonga;-10.0
+120;CL;CHL;Chile;Santiago;756950.0;16746491;SA;CLP;Peso;-35,675147;-71,542969;America/Punta_Arenas;-3.0
+121;CL;CHL;Chile;Santiago;756950.0;16746491;SA;CLP;Peso;-35,675147;-71,542969;America/Santiago;-4.0
+122;CL;CHL;Chile;Santiago;756950.0;16746491;SA;CLP;Peso;-35,675147;-71,542969;Pacific/Easter;-6.0
+123;CM;CMR;Cameroon;Yaounde;475440.0;19294149;AF;XAF;Franc;7,369722;12,354722;Africa/Douala;1.0
+124;CN;CHN;China;Beijing;9596960.0;1330044000;AS;CNY;Yuan Renminbi;35,86166;104,195397;Asia/Shanghai;8.0
+125;CN;CHN;China;Beijing;9596960.0;1330044000;AS;CNY;Yuan Renminbi;35,86166;104,195397;Asia/Urumqi;6.0
+126;CO;COL;Colombia;Bogota;1138910.0;47790000;SA;COP;Peso;4,570868;-74,297333;America/Bogota;-5.0
+127;CR;CRI;Costa Rica;San Jose;51100.0;4516220;;CRC;Colon;9,748917;-83,753428;America/Costa_Rica;-6.0
+128;CU;CUB;Cuba;Havana;110860.0;11423000;;CUP;Peso;21,521757;-77,781167;America/Havana;-5.0
+129;CV;CPV;Cape Verde;Praia;4033.0;508659;AF;CVE;Escudo;16,002082;-24,013197;Atlantic/Cape_Verde;-1.0
+130;CW;CUW;Curacao; Willemstad;444.0;141766;;ANG;Guilder;;;America/Curacao;-4.0
+131;CX;CXR;Christmas Island;Flying Fish Cove;135.0;1500;AS;AUD;Dollar;-10,447525;105,690449;Indian/Christmas;7.0
+132;CY;CYP;Cyprus;Nicosia;9250.0;1102677;EU;EUR;Euro;35,126413;33,429859;Asia/Famagusta;3.0
+133;CY;CYP;Cyprus;Nicosia;9250.0;1102677;EU;EUR;Euro;35,126413;33,429859;Asia/Nicosia;2.0
+134;CZ;CZE;Czechia;Prague;78866.0;10476000;EU;CZK;Koruna;49,817492;15,472962;Europe/Prague;1.0
+135;DE;DEU;Germany;Berlin;357021.0;81802257;EU;EUR;Euro;51,165691;10,451526;Europe/Berlin;1.0
+136;DE;DEU;Germany;Berlin;357021.0;81802257;EU;EUR;Euro;51,165691;10,451526;Europe/Busingen;1.0
+137;DJ;DJI;Djibouti;Djibouti;23000.0;740528;AF;DJF;Franc;11,825138;42,590275;Africa/Djibouti;3.0
+138;DK;DNK;Denmark;Copenhagen;43094.0;5484000;EU;DKK;Krone;56,26392;9,501785;Europe/Copenhagen;1.0
+139;DM;DMA;Dominica;Roseau;754.0;72813;;XCD;Dollar;15,414999;-61,370976;America/Dominica;-4.0
+140;DO;DOM;Dominican Republic;Santo Domingo;48730.0;9823821;;DOP;Peso;18,735693;-70,162651;America/Santo_Domingo;-4.0
+141;DZ;DZA;Algeria;Algiers;2381740.0;34586184;AF;DZD;Dinar;28,033886;1,659626;Africa/Algiers;1.0
+142;EC;ECU;Ecuador;Quito;283560.0;14790608;SA;USD;Dollar;-1,831239;-78,183406;America/Guayaquil;-5.0
+143;EC;ECU;Ecuador;Quito;283560.0;14790608;SA;USD;Dollar;-1,831239;-78,183406;Pacific/Galapagos;-6.0
+144;EE;EST;Estonia;Tallinn;45226.0;1291170;EU;EUR;Euro;58,595272;25,013607;Europe/Tallinn;2.0
+145;EG;EGY;Egypt;Cairo;1001450.0;80471869;AF;EGP;Pound;26,820553;30,802498;Africa/Cairo;2.0
+146;EH;ESH;Western Sahara;El-Aaiun;266000.0;273008;AF;MAD;Dirham;24,215527;-12,885834;Africa/El_Aaiun;0.0
+147;ER;ERI;Eritrea;Asmara;121320.0;5792984;AF;ERN;Nakfa;15,179384;39,782334;Africa/Asmara;3.0
+148;ES;ESP;Spain;Madrid;504782.0;46505963;EU;EUR;Euro;40,463667;-3,74922;Africa/Ceuta;1.0
+149;ES;ESP;Spain;Madrid;504782.0;46505963;EU;EUR;Euro;40,463667;-3,74922;Atlantic/Canary;0.0
+150;ES;ESP;Spain;Madrid;504782.0;46505963;EU;EUR;Euro;40,463667;-3,74922;Europe/Madrid;1.0
+151;ET;ETH;Ethiopia;Addis Ababa;1127127.0;88013491;AF;ETB;Birr;9,145;40,489673;Africa/Addis_Ababa;3.0
+152;FI;FIN;Finland;Helsinki;337030.0;5244000;EU;EUR;Euro;61,92411;25,748151;Europe/Helsinki;2.0
+153;FJ;FJI;Fiji;Suva;18270.0;875983;OC;FJD;Dollar;-16,578193;179,414413;Pacific/Fiji;12.0
+154;FK;FLK;Falkland Islands;Stanley;12173.0;2638;SA;FKP;Pound;-51,796253;-59,523613;Atlantic/Stanley;-3.0
+155;FM;FSM;Micronesia;Palikir;702.0;107708;OC;USD;Dollar;7,425554;150,550812;Pacific/Chuuk;10.0
+156;FM;FSM;Micronesia;Palikir;702.0;107708;OC;USD;Dollar;7,425554;150,550812;Pacific/Kosrae;11.0
+157;FM;FSM;Micronesia;Palikir;702.0;107708;OC;USD;Dollar;7,425554;150,550812;Pacific/Pohnpei;11.0
+158;FO;FRO;Faroe Islands;Torshavn;1399.0;48228;EU;DKK;Krone;61,892635;-6,911806;Atlantic/Faroe;0.0
+159;FR;FRA;France;Paris;547030.0;64768389;EU;EUR;Euro;46,227638;2,213749;Europe/Paris;1.0
+160;GA;GAB;Gabon;Libreville;267667.0;1545255;AF;XAF;Franc;-0,803689;11,609444;Africa/Libreville;1.0
+161;GB;GBR;United Kingdom;London;244820.0;62348447;EU;GBP;Pound;55,378051;-3,435973;Europe/London;0.0
+162;GD;GRD;Grenada;St. George's;344.0;107818;;XCD;Dollar;12,262776;-61,604171;America/Grenada;-4.0
+163;GE;GEO;Georgia;Tbilisi;69700.0;4630000;AS;GEL;Lari;42,315407;43,356892;Asia/Tbilisi;4.0
+164;GF;GUF;French Guiana;Cayenne;91000.0;195506;SA;EUR;Euro;3,933889;-53,125782;America/Cayenne;-3.0
+165;GG;GGY;Guernsey;St Peter Port;78.0;65228;EU;GBP;Pound;49,465691;-2,585278;Europe/Guernsey;0.0
+166;GH;GHA;Ghana;Accra;239460.0;24339838;AF;GHS;Cedi;7,946527;-1,023194;Africa/Accra;0.0
+167;GI;GIB;Gibraltar;Gibraltar;6.5;27884;EU;GIP;Pound;36,137741;-5,345374;Europe/Gibraltar;1.0
+168;GL;GRL;Greenland;Nuuk;2166086.0;56375;;DKK;Krone;71,706936;-42,604303;America/Danmarkshavn;0.0
+169;GL;GRL;Greenland;Nuuk;2166086.0;56375;;DKK;Krone;71,706936;-42,604303;America/Godthab;-3.0
+170;GL;GRL;Greenland;Nuuk;2166086.0;56375;;DKK;Krone;71,706936;-42,604303;America/Scoresbysund;-1.0
+171;GL;GRL;Greenland;Nuuk;2166086.0;56375;;DKK;Krone;71,706936;-42,604303;America/Thule;-4.0
+172;GM;GMB;Gambia;Banjul;11300.0;1593256;AF;GMD;Dalasi;13,443182;-15,310139;Africa/Banjul;0.0
+173;GN;GIN;Guinea;Conakry;245857.0;10324025;AF;GNF;Franc;9,945587;-9,696645;Africa/Conakry;0.0
+174;GP;GLP;Guadeloupe;Basse-Terre;1780.0;443000;;EUR;Euro;16,995971;-62,067641;America/Guadeloupe;-4.0
+175;GQ;GNQ;Equatorial Guinea;Malabo;28051.0;1014999;AF;XAF;Franc;1,650801;10,267895;Africa/Malabo;1.0
+176;GR;GRC;Greece;Athens;131940.0;11000000;EU;EUR;Euro;39,074208;21,824312;Europe/Athens;2.0
+177;GS;SGS;South Georgia and the South Sandwich Islands;Grytviken;3903.0;30;AN;GBP;Pound;-54,429579;-36,587909;Atlantic/South_Georgia;-2.0
+178;GT;GTM;Guatemala;Guatemala City;108890.0;13550440;;GTQ;Quetzal;15,783471;-90,230759;America/Guatemala;-6.0
+179;GU;GUM;Guam;Hagatna;549.0;159358;OC;USD;Dollar;13,444304;144,793731;Pacific/Guam;10.0
+180;GW;GNB;Guinea-Bissau;Bissau;36120.0;1565126;AF;XOF;Franc;11,803749;-15,180413;Africa/Bissau;0.0
+181;GY;GUY;Guyana;Georgetown;214970.0;748486;SA;GYD;Dollar;4,860416;-58,93018;America/Guyana;-4.0
+182;HK;HKG;Hong Kong;Hong Kong;1092.0;6898686;AS;HKD;Dollar;22,396428;114,109497;Asia/Hong_Kong;8.0
+183;HM;HMD;Heard Island and McDonald Islands;;412.0;0;AN;AUD;Dollar;-53,08181;73,504158;;
+184;HN;HND;Honduras;Tegucigalpa;112090.0;7989415;;HNL;Lempira;15,199999;-86,241905;America/Tegucigalpa;-6.0
+185;HR;HRV;Croatia;Zagreb;56542.0;4284889;EU;HRK;Kuna;45,1;15,2;Europe/Zagreb;1.0
+186;HT;HTI;Haiti;Port-au-Prince;27750.0;9648924;;HTG;Gourde;18,971187;-72,285215;America/Port-au-Prince;-5.0
+187;HU;HUN;Hungary;Budapest;93030.0;9982000;EU;HUF;Forint;47,162494;19,503304;Europe/Budapest;1.0
+188;ID;IDN;Indonesia;Jakarta;1919440.0;242968342;AS;IDR;Rupiah;-0,789275;113,921327;Asia/Jakarta;7.0
+189;ID;IDN;Indonesia;Jakarta;1919440.0;242968342;AS;IDR;Rupiah;-0,789275;113,921327;Asia/Jayapura;9.0
+190;ID;IDN;Indonesia;Jakarta;1919440.0;242968342;AS;IDR;Rupiah;-0,789275;113,921327;Asia/Makassar;8.0
+191;ID;IDN;Indonesia;Jakarta;1919440.0;242968342;AS;IDR;Rupiah;-0,789275;113,921327;Asia/Pontianak;7.0
+192;IE;IRL;Ireland;Dublin;70280.0;4622917;EU;EUR;Euro;53,41291;-8,24389;Europe/Dublin;0.0
+193;IL;ISR;Israel;Jerusalem;20770.0;7353985;AS;ILS;Shekel;31,046051;34,851612;Asia/Jerusalem;2.0
+194;IM;IMN;Isle of Man;Douglas;572.0;75049;EU;GBP;Pound;54,236107;-4,548056;Europe/Isle_of_Man;0.0
+195;IN;IND;India;New Delhi;3287590.0;1173108018;AS;INR;Rupee;20,593684;78,96288;Asia/Kolkata;5.5
+196;IO;IOT;British Indian Ocean Territory;Diego Garcia;60.0;4000;AS;USD;Dollar;-6,343194;71,876519;Indian/Chagos;6.0
+197;IQ;IRQ;Iraq;Baghdad;437072.0;29671605;AS;IQD;Dinar;33,223191;43,679291;Asia/Baghdad;3.0
+198;IR;IRN;Iran;Tehran;1648000.0;76923300;AS;IRR;Rial;32,427908;53,688046;Asia/Tehran;3.5
+199;IS;ISL;Iceland;Reykjavik;103000.0;308910;EU;ISK;Krona;64,963051;-19,020835;Atlantic/Reykjavik;0.0
+200;IT;ITA;Italy;Rome;301230.0;60340328;EU;EUR;Euro;41,87194;12,56738;Europe/Rome;1.0
+201;JE;JEY;Jersey;Saint Helier;116.0;90812;EU;GBP;Pound;49,214439;-2,13125;Europe/Jersey;0.0
+202;JM;JAM;Jamaica;Kingston;10991.0;2847232;;JMD;Dollar;18,109581;-77,297508;America/Jamaica;-5.0
+203;JO;JOR;Jordan;Amman;92300.0;6407085;AS;JOD;Dinar;30,585164;36,238414;Asia/Amman;2.0
+204;JP;JPN;Japan;Tokyo;377835.0;127288000;AS;JPY;Yen;36,204824;138,252924;Asia/Tokyo;9.0
+205;KE;KEN;Kenya;Nairobi;582650.0;40046566;AF;KES;Shilling;-0,023559;37,906193;Africa/Nairobi;3.0
+206;KG;KGZ;Kyrgyzstan;Bishkek;198500.0;5776500;AS;KGS;Som;41,20438;74,766098;Asia/Bishkek;6.0
+207;KH;KHM;Cambodia;Phnom Penh;181040.0;14453680;AS;KHR;Riels;12,565679;104,990963;Asia/Phnom_Penh;7.0
+208;KI;KIR;Kiribati;Tarawa;811.0;92533;OC;AUD;Dollar;-3,370417;-168,734039;Pacific/Enderbury;13.0
+209;KI;KIR;Kiribati;Tarawa;811.0;92533;OC;AUD;Dollar;-3,370417;-168,734039;Pacific/Kiritimati;14.0
+210;KI;KIR;Kiribati;Tarawa;811.0;92533;OC;AUD;Dollar;-3,370417;-168,734039;Pacific/Tarawa;12.0
+211;KM;COM;Comoros;Moroni;2170.0;773407;AF;KMF;Franc;-11,875001;43,872219;Indian/Comoro;3.0
+212;KN;KNA;Saint Kitts and Nevis;Basseterre;261.0;51134;;XCD;Dollar;17,357822;-62,782998;America/St_Kitts;-4.0
+213;KP;PRK;North Korea;Pyongyang;120540.0;22912177;AS;KPW;Won;40,339852;127,510093;Asia/Pyongyang;8.5
+214;KR;KOR;South Korea;Seoul;98480.0;48422644;AS;KRW;Won;35,907757;127,766922;Asia/Seoul;9.0
+215;XK;XKX;Kosovo;Pristina;10908.0;1800000;EU;EUR;Euro;42,602636;20,902977;;
+216;KW;KWT;Kuwait;Kuwait City;17820.0;2789132;AS;KWD;Dinar;29,31166;47,481766;Asia/Kuwait;3.0
+217;KY;CYM;Cayman Islands;George Town;262.0;44270;;KYD;Dollar;19,513469;-80,566956;America/Cayman;-5.0
+218;KZ;KAZ;Kazakhstan;Astana;2717300.0;15340000;AS;KZT;Tenge;48,019573;66,923684;Asia/Almaty;6.0
+219;KZ;KAZ;Kazakhstan;Astana;2717300.0;15340000;AS;KZT;Tenge;48,019573;66,923684;Asia/Aqtau;5.0
+220;KZ;KAZ;Kazakhstan;Astana;2717300.0;15340000;AS;KZT;Tenge;48,019573;66,923684;Asia/Aqtobe;5.0
+221;KZ;KAZ;Kazakhstan;Astana;2717300.0;15340000;AS;KZT;Tenge;48,019573;66,923684;Asia/Atyrau;5.0
+222;KZ;KAZ;Kazakhstan;Astana;2717300.0;15340000;AS;KZT;Tenge;48,019573;66,923684;Asia/Oral;5.0
+223;KZ;KAZ;Kazakhstan;Astana;2717300.0;15340000;AS;KZT;Tenge;48,019573;66,923684;Asia/Qyzylorda;6.0
+224;LA;LAO;Laos;Vientiane;236800.0;6368162;AS;LAK;Kip;19,85627;102,495496;Asia/Vientiane;7.0
+225;LB;LBN;Lebanon;Beirut;10400.0;4125247;AS;LBP;Pound;33,854721;35,862285;Asia/Beirut;2.0
+226;LC;LCA;Saint Lucia;Castries;616.0;160922;;XCD;Dollar;13,909444;-60,978893;America/St_Lucia;-4.0
+227;LI;LIE;Liechtenstein;Vaduz;160.0;35000;EU;CHF;Franc;47,166;9,555373;Europe/Vaduz;1.0
+228;LK;LKA;Sri Lanka;Colombo;65610.0;21513990;AS;LKR;Rupee;7,873054;80,771797;Asia/Colombo;5.5
+229;LR;LBR;Liberia;Monrovia;111370.0;3685076;AF;LRD;Dollar;6,428055;-9,429499;Africa/Monrovia;0.0
+230;LS;LSO;Lesotho;Maseru;30355.0;1919552;AF;LSL;Loti;-29,609988;28,233608;Africa/Maseru;2.0
+231;LT;LTU;Lithuania;Vilnius;65200.0;2944459;EU;EUR;Euro;55,169438;23,881275;Europe/Vilnius;2.0
+232;LU;LUX;Luxembourg;Luxembourg;2586.0;497538;EU;EUR;Euro;49,815273;6,129583;Europe/Luxembourg;1.0
+233;LV;LVA;Latvia;Riga;64589.0;2217969;EU;EUR;Euro;56,879635;24,603189;Europe/Riga;2.0
+234;LY;LBY;Libya;Tripoli;1759540.0;6461454;AF;LYD;Dinar;26,3351;17,228331;Africa/Tripoli;2.0
+235;MA;MAR;Morocco;Rabat;446550.0;33848242;AF;MAD;Dirham;31,791702;-7,09262;Africa/Casablanca;0.0
+236;MC;MCO;Monaco;Monaco;1.95;32965;EU;EUR;Euro;43,750298;7,412841;Europe/Monaco;1.0
+237;MD;MDA;Moldova;Chisinau;33843.0;4324000;EU;MDL;Leu;47,411631;28,369885;Europe/Chisinau;2.0
+238;ME;MNE;Montenegro;Podgorica;14026.0;666730;EU;EUR;Euro;42,708678;19,37439;Europe/Podgorica;1.0
+239;MF;MAF;Saint Martin;Marigot;53.0;35925;;EUR;Euro;;;America/Marigot;-4.0
+240;MG;MDG;Madagascar;Antananarivo;587040.0;21281844;AF;MGA;Ariary;-18,766947;46,869107;Indian/Antananarivo;3.0
+241;MH;MHL;Marshall Islands;Majuro;181.3;65859;OC;USD;Dollar;7,131474;171,184478;Pacific/Kwajalein;12.0
+242;MH;MHL;Marshall Islands;Majuro;181.3;65859;OC;USD;Dollar;7,131474;171,184478;Pacific/Majuro;12.0
+243;MK;MKD;Macedonia;Skopje;25333.0;2062294;EU;MKD;Denar;41,608635;21,745275;Europe/Skopje;1.0
+244;ML;MLI;Mali;Bamako;1240000.0;13796354;AF;XOF;Franc;17,570692;-3,996166;Africa/Bamako;0.0
+245;MM;MMR;Myanmar;Nay Pyi Taw;678500.0;53414374;AS;MMK;Kyat;21,913965;95,956223;Asia/Yangon;6.5
+246;MN;MNG;Mongolia;Ulan Bator;1565000.0;3086918;AS;MNT;Tugrik;46,862496;103,846656;Asia/Choibalsan;8.0
+247;MN;MNG;Mongolia;Ulan Bator;1565000.0;3086918;AS;MNT;Tugrik;46,862496;103,846656;Asia/Hovd;7.0
+248;MN;MNG;Mongolia;Ulan Bator;1565000.0;3086918;AS;MNT;Tugrik;46,862496;103,846656;Asia/Ulaanbaatar;8.0
+249;MO;MAC;Macao;Macao;254.0;449198;AS;MOP;Pataca;22,198745;113,543873;Asia/Macau;8.0
+250;MP;MNP;Northern Mariana Islands;Saipan;477.0;53883;OC;USD;Dollar;17,33083;145,38469;Pacific/Saipan;10.0
+251;MQ;MTQ;Martinique;Fort-de-France;1100.0;432900;;EUR;Euro;14,641528;-61,024174;America/Martinique;-4.0
+252;MR;MRT;Mauritania;Nouakchott;1030700.0;3205060;AF;MRO;Ouguiya;21,00789;-10,940835;Africa/Nouakchott;0.0
+253;MS;MSR;Montserrat;Plymouth;102.0;9341;;XCD;Dollar;16,742498;-62,187366;America/Montserrat;-4.0
+254;MT;MLT;Malta;Valletta;316.0;403000;EU;EUR;Euro;35,937496;14,375416;Europe/Malta;1.0
+255;MU;MUS;Mauritius;Port Louis;2040.0;1294104;AF;MUR;Rupee;-20,348404;57,552152;Indian/Mauritius;4.0
+256;MV;MDV;Maldives;Male;300.0;395650;AS;MVR;Rufiyaa;3,202778;73,22068;Indian/Maldives;5.0
+257;MW;MWI;Malawi;Lilongwe;118480.0;15447500;AF;MWK;Kwacha;-13,254308;34,301525;Africa/Blantyre;2.0
+258;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Bahia_Banderas;-6.0
+259;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Cancun;-5.0
+260;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Chihuahua;-7.0
+261;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Hermosillo;-7.0
+262;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Matamoros;-6.0
+263;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Mazatlan;-7.0
+264;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Merida;-6.0
+265;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Mexico_City;-6.0
+266;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Monterrey;-6.0
+267;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Ojinaga;-7.0
+268;MX;MEX;Mexico;Mexico City;1972550.0;112468855;;MXN;Peso;23,634501;-102,552784;America/Tijuana;-8.0
+269;MY;MYS;Malaysia;Kuala Lumpur;329750.0;28274729;AS;MYR;Ringgit;4,210484;101,975766;Asia/Kuala_Lumpur;8.0
+270;MY;MYS;Malaysia;Kuala Lumpur;329750.0;28274729;AS;MYR;Ringgit;4,210484;101,975766;Asia/Kuching;8.0
+271;MZ;MOZ;Mozambique;Maputo;801590.0;22061451;AF;MZN;Metical;-18,665695;35,529562;Africa/Maputo;2.0
+272;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+273;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+274;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+275;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+276;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+277;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;-22,95764;18,49041;Africa/Windhoek;1.0
+278;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+279;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+280;;NAM;Namibia;Windhoek;825418.0;2128471;AF;NAD;Dollar;;;Africa/Windhoek;1.0
+281;NC;NCL;New Caledonia;Noumea;19060.0;216494;OC;XPF;Franc;-20,904305;165,618042;Pacific/Noumea;11.0
+282;NE;NER;Niger;Niamey;1267000.0;15878271;AF;XOF;Franc;17,607789;8,081666;Africa/Niamey;1.0
+283;NF;NFK;Norfolk Island;Kingston;34.6;1828;OC;AUD;Dollar;-29,040835;167,954712;Pacific/Norfolk;11.0
+284;NG;NGA;Nigeria;Abuja;923768.0;154000000;AF;NGN;Naira;9,081999;8,675277;Africa/Lagos;1.0
+285;NI;NIC;Nicaragua;Managua;129494.0;5995928;;NIO;Cordoba;12,865416;-85,207229;America/Managua;-6.0
+286;NL;NLD;Netherlands;Amsterdam;41526.0;16645000;EU;EUR;Euro;52,132633;5,291266;Europe/Amsterdam;1.0
+287;NO;NOR;Norway;Oslo;324220.0;5009150;EU;NOK;Krone;60,472024;8,468946;Europe/Oslo;1.0
+288;NP;NPL;Nepal;Kathmandu;140800.0;28951852;AS;NPR;Rupee;28,394857;84,124008;Asia/Kathmandu;5.75
+289;NR;NRU;Nauru;Yaren;21.0;10065;OC;AUD;Dollar;-0,522778;166,931503;Pacific/Nauru;12.0
+290;NU;NIU;Niue;Alofi;260.0;2166;OC;NZD;Dollar;-19,054445;-169,867233;Pacific/Niue;-11.0
+291;NZ;NZL;New Zealand;Wellington;268680.0;4252277;OC;NZD;Dollar;-40,900557;174,885971;Pacific/Auckland;12.0
+292;NZ;NZL;New Zealand;Wellington;268680.0;4252277;OC;NZD;Dollar;-40,900557;174,885971;Pacific/Chatham;12.75
+293;OM;OMN;Oman;Muscat;212460.0;2967717;AS;OMR;Rial;21,512583;55,923255;Asia/Muscat;4.0
+294;PA;PAN;Panama;Panama City;78200.0;3410676;;PAB;Balboa;8,537981;-80,782127;America/Panama;-5.0
+295;PE;PER;Peru;Lima;1285220.0;29907003;SA;PEN;Sol;-9,189967;-75,015152;America/Lima;-5.0
+296;PF;PYF;French Polynesia;Papeete;4167.0;270485;OC;XPF;Franc;-17,679742;-149,406843;Pacific/Gambier;-9.0
+297;PF;PYF;French Polynesia;Papeete;4167.0;270485;OC;XPF;Franc;-17,679742;-149,406843;Pacific/Marquesas;-9.5
+298;PF;PYF;French Polynesia;Papeete;4167.0;270485;OC;XPF;Franc;-17,679742;-149,406843;Pacific/Tahiti;-10.0
+299;PG;PNG;Papua New Guinea;Port Moresby;462840.0;6064515;OC;PGK;Kina;-6,314993;143,95555;Pacific/Bougainville;11.0
+300;PG;PNG;Papua New Guinea;Port Moresby;462840.0;6064515;OC;PGK;Kina;-6,314993;143,95555;Pacific/Port_Moresby;10.0
+301;PH;PHL;Philippines;Manila;300000.0;99900177;AS;PHP;Peso;12,879721;121,774017;Asia/Manila;8.0
+302;PK;PAK;Pakistan;Islamabad;803940.0;184404791;AS;PKR;Rupee;30,375321;69,345116;Asia/Karachi;5.0
+303;PL;POL;Poland;Warsaw;312685.0;38500000;EU;PLN;Zloty;51,919438;19,145136;Europe/Warsaw;1.0
+304;PM;SPM;Saint Pierre and Miquelon;Saint-Pierre;242.0;7012;;EUR;Euro;46,941936;-56,27111;America/Miquelon;-3.0
+305;PN;PCN;Pitcairn;Adamstown;47.0;46;OC;NZD;Dollar;-24,703615;-127,439308;Pacific/Pitcairn;-8.0
+306;PR;PRI;Puerto Rico;San Juan;9104.0;3916632;;USD;Dollar;18,220833;-66,590149;America/Puerto_Rico;-4.0
+307;PS;PSE;Palestinian Territory;East Jerusalem;5970.0;3800000;AS;ILS;Shekel;31,952162;35,233154;Asia/Gaza;2.0
+308;PS;PSE;Palestinian Territory;East Jerusalem;5970.0;3800000;AS;ILS;Shekel;31,952162;35,233154;Asia/Hebron;2.0
+309;PT;PRT;Portugal;Lisbon;92391.0;10676000;EU;EUR;Euro;39,399872;-8,224454;Atlantic/Azores;-1.0
+310;PT;PRT;Portugal;Lisbon;92391.0;10676000;EU;EUR;Euro;39,399872;-8,224454;Atlantic/Madeira;0.0
+311;PT;PRT;Portugal;Lisbon;92391.0;10676000;EU;EUR;Euro;39,399872;-8,224454;Europe/Lisbon;0.0
+312;PW;PLW;Palau;Melekeok;458.0;19907;OC;USD;Dollar;7,51498;134,58252;Pacific/Palau;9.0
+313;PY;PRY;Paraguay;Asuncion;406750.0;6375830;SA;PYG;Guarani;-23,442503;-58,443832;America/Asuncion;-4.0
+314;QA;QAT;Qatar;Doha;11437.0;840926;AS;QAR;Rial;25,354826;51,183884;Asia/Qatar;3.0
+315;RE;REU;Reunion;Saint-Denis;2517.0;776948;AF;EUR;Euro;-21,115141;55,536384;Indian/Reunion;4.0
+316;RO;ROU;Romania;Bucharest;237500.0;21959278;EU;RON;Leu;45,943161;24,96676;Europe/Bucharest;2.0
+317;RS;SRB;Serbia;Belgrade;88361.0;7344847;EU;RSD;Dinar;44,016521;21,005859;Europe/Belgrade;1.0
+318;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Anadyr;12.0
+319;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Barnaul;7.0
+320;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Chita;9.0
+321;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Irkutsk;8.0
+322;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Kamchatka;12.0
+323;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Khandyga;9.0
+324;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Krasnoyarsk;7.0
+325;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Magadan;11.0
+326;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Novokuznetsk;7.0
+327;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Novosibirsk;7.0
+328;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Omsk;6.0
+329;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Sakhalin;11.0
+330;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Srednekolymsk;11.0
+331;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Tomsk;7.0
+332;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Ust-Nera;10.0
+333;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Vladivostok;10.0
+334;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Yakutsk;9.0
+335;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Asia/Yekaterinburg;5.0
+336;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Astrakhan;4.0
+337;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Kaliningrad;2.0
+338;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Kirov;3.0
+339;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Moscow;3.0
+340;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Samara;4.0
+341;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Saratov;4.0
+342;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Simferopol;3.0
+343;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Ulyanovsk;4.0
+344;RU;RUS;Russia;Moscow;17100000.0;140702000;EU;RUB;Ruble;61,52401;105,318756;Europe/Volgograd;3.0
+345;RW;RWA;Rwanda;Kigali;26338.0;11055976;AF;RWF;Franc;-1,940278;29,873888;Africa/Kigali;2.0
+346;SA;SAU;Saudi Arabia;Riyadh;1960582.0;25731776;AS;SAR;Rial;23,885942;45,079162;Asia/Riyadh;3.0
+347;SB;SLB;Solomon Islands;Honiara;28450.0;559198;OC;SBD;Dollar;-9,64571;160,156194;Pacific/Guadalcanal;11.0
+348;SC;SYC;Seychelles;Victoria;455.0;88340;AF;SCR;Rupee;-4,679574;55,491977;Indian/Mahe;4.0
+349;SD;SDN;Sudan;Khartoum;1861484.0;35000000;AF;SDG;Pound;12,862807;30,217636;Africa/Khartoum;3.0
+350;SS;SSD;South Sudan;Juba;644329.0;8260490;AF;SSP;Pound;;;Africa/Juba;3.0
+351;SE;SWE;Sweden;Stockholm;449964.0;9828655;EU;SEK;Krona;60,128161;18,643501;Europe/Stockholm;1.0
+352;SG;SGP;Singapore;Singapore;692.7;4701069;AS;SGD;Dollar;1,352083;103,819836;Asia/Singapore;8.0
+353;SH;SHN;Saint Helena;Jamestown;410.0;7460;AF;SHP;Pound;-24,143474;-10,030696;Atlantic/St_Helena;0.0
+354;SI;SVN;Slovenia;Ljubljana;20273.0;2007000;EU;EUR;Euro;46,151241;14,995463;Europe/Ljubljana;1.0
+355;SJ;SJM;Svalbard and Jan Mayen;Longyearbyen;62049.0;2550;EU;NOK;Krone;77,553604;23,670272;Arctic/Longyearbyen;1.0
+356;SK;SVK;Slovakia;Bratislava;48845.0;5455000;EU;EUR;Euro;48,669026;19,699024;Europe/Bratislava;1.0
+357;SL;SLE;Sierra Leone;Freetown;71740.0;5245695;AF;SLL;Leone;8,460555;-11,779889;Africa/Freetown;0.0
+358;SM;SMR;San Marino;San Marino;61.2;31477;EU;EUR;Euro;43,94236;12,457777;Europe/San_Marino;1.0
+359;SN;SEN;Senegal;Dakar;196190.0;12323252;AF;XOF;Franc;14,497401;-14,452362;Africa/Dakar;0.0
+360;SO;SOM;Somalia;Mogadishu;637657.0;10112453;AF;SOS;Shilling;5,152149;46,199616;Africa/Mogadishu;3.0
+361;SR;SUR;Suriname;Paramaribo;163270.0;492829;SA;SRD;Dollar;3,919305;-56,027783;America/Paramaribo;-3.0
+362;ST;STP;Sao Tome and Principe;Sao Tome;1001.0;175808;AF;STD;Dobra;0,18636;6,613081;Africa/Sao_Tome;0.0
+363;SV;SLV;El Salvador;San Salvador;21040.0;6052064;;USD;Dollar;13,794185;-88,89653;America/El_Salvador;-6.0
+364;SX;SXM;Sint Maarten;Philipsburg;21.0;37429;;ANG;Guilder;;;America/Lower_Princes;-4.0
+365;SY;SYR;Syria;Damascus;185180.0;22198110;AS;SYP;Pound;34,802075;38,996815;Asia/Damascus;2.0
+366;SZ;SWZ;Swaziland;Mbabane;17363.0;1354051;AF;SZL;Lilangeni;-26,522503;31,465866;Africa/Mbabane;2.0
+367;TC;TCA;Turks and Caicos Islands;Cockburn Town;430.0;20556;;USD;Dollar;21,694025;-71,797928;America/Grand_Turk;-4.0
+368;TD;TCD;Chad;N'Djamena;1284000.0;10543464;AF;XAF;Franc;15,454166;18,732207;Africa/Ndjamena;1.0
+369;TF;ATF;French Southern Territories;Port-aux-Francais;7829.0;140;AN;EUR;Euro  ;-49,280366;69,348557;Indian/Kerguelen;5.0
+370;TG;TGO;Togo;Lome;56785.0;6587239;AF;XOF;Franc;8,619543;0,824782;Africa/Lome;0.0
+371;TH;THA;Thailand;Bangkok;514000.0;67089500;AS;THB;Baht;15,870032;100,992541;Asia/Bangkok;7.0
+372;TJ;TJK;Tajikistan;Dushanbe;143100.0;7487489;AS;TJS;Somoni;38,861034;71,276093;Asia/Dushanbe;5.0
+373;TK;TKL;Tokelau;;10.0;1466;OC;NZD;Dollar;-8,967363;-171,855881;Pacific/Fakaofo;13.0
+374;TL;TLS;East Timor;Dili;15007.0;1154625;OC;USD;Dollar;-8,874217;125,727539;Asia/Dili;9.0
+375;TM;TKM;Turkmenistan;Ashgabat;488100.0;4940916;AS;TMT;Manat;38,969719;59,556278;Asia/Ashgabat;5.0
+376;TN;TUN;Tunisia;Tunis;163610.0;10589025;AF;TND;Dinar;33,886917;9,537499;Africa/Tunis;1.0
+377;TO;TON;Tonga;Nuku'alofa;748.0;122580;OC;TOP;Pa'anga;-21,178986;-175,198242;Pacific/Tongatapu;13.0
+378;TR;TUR;Turkey;Ankara;780580.0;77804122;AS;TRY;Lira;38,963745;35,243322;Europe/Istanbul;3.0
+379;TT;TTO;Trinidad and Tobago;Port of Spain;5128.0;1228691;;TTD;Dollar;10,691803;-61,222503;America/Port_of_Spain;-4.0
+380;TV;TUV;Tuvalu;Funafuti;26.0;10472;OC;AUD;Dollar;-7,109535;177,64933;Pacific/Funafuti;12.0
+381;TW;TWN;Taiwan;Taipei;35980.0;22894384;AS;TWD;Dollar;23,69781;120,960515;Asia/Taipei;8.0
+382;TZ;TZA;Tanzania;Dodoma;945087.0;41892895;AF;TZS;Shilling;-6,369028;34,888822;Africa/Dar_es_Salaam;3.0
+383;UA;UKR;Ukraine;Kiev;603700.0;45415596;EU;UAH;Hryvnia;48,379433;31,16558;Europe/Kiev;2.0
+384;UA;UKR;Ukraine;Kiev;603700.0;45415596;EU;UAH;Hryvnia;48,379433;31,16558;Europe/Uzhgorod;2.0
+385;UA;UKR;Ukraine;Kiev;603700.0;45415596;EU;UAH;Hryvnia;48,379433;31,16558;Europe/Zaporozhye;2.0
+386;UG;UGA;Uganda;Kampala;236040.0;33398682;AF;UGX;Shilling;1,373333;32,290275;Africa/Kampala;3.0
+387;UM;UMI;United States Minor Outlying Islands;;0.0;0;OC;USD;Dollar ;19,295374;166,6280441;Pacific/Midway;-11.0
+388;UM;UMI;United States Minor Outlying Islands;;0.0;0;OC;USD;Dollar ;19,295374;166,6280441;Pacific/Wake;12.0
+389;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Adak;-10.0
+390;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Anchorage;-9.0
+391;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Boise;-7.0
+392;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Chicago;-6.0
+393;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Denver;-7.0
+394;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Detroit;-5.0
+395;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Indianapolis;-5.0
+396;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Knox;-6.0
+397;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Marengo;-5.0
+398;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Petersburg;-5.0
+399;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Tell_City;-6.0
+400;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Vevay;-5.0
+401;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Vincennes;-5.0
+402;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Indiana/Winamac;-5.0
+403;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Juneau;-9.0
+404;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Kentucky/Louisville;-5.0
+405;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Kentucky/Monticello;-5.0
+406;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Los_Angeles;-8.0
+407;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Menominee;-6.0
+408;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Metlakatla;-9.0
+409;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/New_York;-5.0
+410;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Nome;-9.0
+411;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/North_Dakota/Beulah;-6.0
+412;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/North_Dakota/Center;-6.0
+413;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/North_Dakota/New_Salem;-6.0
+414;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Phoenix;-7.0
+415;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Sitka;-9.0
+416;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;America/Yakutat;-9.0
+417;US;USA;United States;Washington;9629091.0;310232863;;USD;Dollar;37,09024;-95,712891;Pacific/Honolulu;-10.0
+418;UY;URY;Uruguay;Montevideo;176220.0;3477000;SA;UYU;Peso;-32,522779;-55,765835;America/Montevideo;-3.0
+419;UZ;UZB;Uzbekistan;Tashkent;447400.0;27865738;AS;UZS;Som;41,377491;64,585262;Asia/Samarkand;5.0
+420;UZ;UZB;Uzbekistan;Tashkent;447400.0;27865738;AS;UZS;Som;41,377491;64,585262;Asia/Tashkent;5.0
+421;VA;VAT;Vatican;Vatican City;0.44;921;EU;EUR;Euro;41,902916;12,453389;Europe/Vatican;1.0
+422;VC;VCT;Saint Vincent and the Grenadines;Kingstown;389.0;104217;;XCD;Dollar;12,984305;-61,287228;America/St_Vincent;-4.0
+423;VE;VEN;Venezuela;Caracas;912050.0;27223228;SA;VEF;Bolivar;6,42375;-66,58973;America/Caracas;-4.0
+424;VG;VGB;British Virgin Islands;Road Town;153.0;21730;;USD;Dollar;18,420695;-64,639968;America/Tortola;-4.0
+425;VI;VIR;U.S. Virgin Islands;Charlotte Amalie;352.0;108708;;USD;Dollar;18,335765;-64,896335;America/St_Thomas;-4.0
+426;VN;VNM;Vietnam;Hanoi;329560.0;89571130;AS;VND;Dong;14,058324;108,277199;Asia/Ho_Chi_Minh;7.0
+427;VU;VUT;Vanuatu;Port Vila;12200.0;221552;OC;VUV;Vatu;-15,376706;166,959158;Pacific/Efate;11.0
+428;WF;WLF;Wallis and Futuna;Mata Utu;274.0;16025;OC;XPF;Franc;-13,768752;-177,156097;Pacific/Wallis;12.0
+429;WS;WSM;Samoa;Apia;2944.0;192001;OC;WST;Tala;-13,759029;-172,104629;Pacific/Apia;13.0
+430;YE;YEM;Yemen;Sanaa;527970.0;23495361;AS;YER;Rial;15,552727;48,516388;Asia/Aden;3.0
+431;YT;MYT;Mayotte;Mamoudzou;374.0;159042;AF;EUR;Euro;-12,8275;45,166244;Indian/Mayotte;3.0
+432;ZA;ZAF;South Africa;Pretoria;1219912.0;49000000;AF;ZAR;Rand;-30,559482;22,937506;Africa/Johannesburg;2.0
+433;ZM;ZMB;Zambia;Lusaka;752614.0;13460305;AF;ZMW;Kwacha;-13,133897;27,849332;Africa/Lusaka;2.0
+434;ZW;ZWE;Zimbabwe;Harare;390580.0;13061000;AF;ZWL;Dollar;-19,015438;29,154857;Africa/Harare;2.0
+435;CS;SCG;Serbia and Montenegro;Belgrade;102350.0;10829175;EU;RSD;Dinar;;;;
+436;AN;ANT;Netherlands Antilles;Willemstad;960.0;300000;;ANG;Guilder;12,226079;-69,060087;;
