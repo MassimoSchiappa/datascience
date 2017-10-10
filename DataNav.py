@@ -114,3 +114,11 @@ df_who = pd.read_csv('./MORT_CHILD_DS.csv', sep=';', encoding = "ISO-8859-1")
 # ***************************** REL *******************************************
 
 df_rel = pd.read_csv('./religions_corr_ds.csv', sep=';', encoding = "ISO-8859-1")
+
+
+# ***************************** CHILD MORATLITY EXPLORATION  *******************************************
+
+print(df_who.head(5))
+
+
+

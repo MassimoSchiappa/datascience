@@ -1,0 +1,24 @@
+ALRI	Acute lower respiratory infections
+BABT	Birth asphyxia and birth trauma
+OCPNC	Other communicable, perinatal and nutritional conditions
+SOICN	Sepsis and other infectious conditions of the newborn
+CA	Congenital anomalies
+DD	Diarrhoeal diseases
+AIDS	HIV/AIDS
+INJ	Injuries
+MAL	Malaria
+MEA	Measles
+MEN	Meningitis/encephalitis
+OND	Other noncommunicable diseases
+PER	Pertussis
+PRE	Prematurity
+
+N0-27D	from 0 to 27 days of life
+N1-59M	from 1 to 59 months of life
+N0-4Y	from 0 to 4 years of life (N0-27D + N1-59M)
+
+
+
+
+
+
