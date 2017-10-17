@@ -36,13 +36,13 @@ df_filt = df_imf[['ISO','Country','Units','Scale','2000','2001', '2002',
        '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011',
        '2012', '2013', '2014', '2015','Estimates Start After','WEO Subject Code','Subject Descriptor','Subject Notes']].copy()
 
-#Popolazione
+#Populations
 df_filt_pop = df_filt[df_filt['WEO Subject Code']=='LP']
 
-#Impiegati
+#Enployes
 df_filt_empl = df_filt[df_filt['WEO Subject Code']=='LE']
 
-#Tasso di disoccupazione
+#Unemployment rate
 df_filt_unempl_rate = df_filt[df_filt['WEO Subject Code']=='LUR']
 
 #GDP
@@ -108,6 +108,29 @@ df_filt_gdp_xc_cp = df_filt[df_filt['WEO Subject Code']=='NGDPRPC']
 #df_final.to_csv('../WHO/COUNTRIES/MORT_CHILD_DS.csv',sep=';',encoding = "ISO-8859-1")
 #
 #
+
+#ALRI    Acute lower respiratory infections
+#BABT    Birth asphyxia and birth trauma
+#OCPNC   Other communicable, perinatal and nutritional conditions
+#SOICN   Sepsis and other infectious conditions of the newborn
+#CA      Congenital anomalies
+#DD      Diarrhoeal diseases
+#AIDS    HIV/AIDS
+#INJ     Injuries
+#MAL     Malaria
+#MEA     Measles
+#MEN     Meningitis/encephalitis
+#OND     Other noncommunicable diseases
+#PER     Pertussis
+#PRE     Prematurity
+#
+#N0-27D  from 0 to 27 days of life
+#N1-59M  from 1 to 59 months of life
+#N0-4Y   from 0 to 4 years of life (N0-27D + N1-59M)
+
+
+
+
 df_who = pd.read_csv('./MORT_CHILD_DS.csv', sep=';', encoding = "ISO-8859-1")
 
 
